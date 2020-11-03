@@ -1,2 +1,3 @@
 # gamefool
-Card game "Fool"
+
+Тестовое задание с собеса
